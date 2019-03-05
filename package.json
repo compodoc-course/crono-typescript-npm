@@ -6,9 +6,7 @@
   "types": "./dist/index.d.ts",
   "scripts": {
     "test": "mocha",
-    "watch": "tsc -w",
-    "compodoc": "npx compodoc -p ./tsconfig.doc.json",
-    "cover": "istanbul cover node_modules/mocha/bin/_mocha test/*.js -- -R spec"
+    "watch": "tsc -w"
   },
   "repository": {
     "type": "git",

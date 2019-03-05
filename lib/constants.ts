@@ -1,6 +1,3 @@
-/**
- * Constantes de tiempo
- */
 export enum Tiempo {
     SG_MIN = 60,
     SG_HORA = SG_MIN * 60,
